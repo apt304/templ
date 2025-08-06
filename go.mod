@@ -1,4 +1,4 @@
-module github.com/a-h/templ
+module github.com/apt304/templ
 
 go 1.23.0
 
